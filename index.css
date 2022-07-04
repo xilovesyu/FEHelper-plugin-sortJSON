@@ -1,0 +1,22 @@
+/* code here... */
+.textarea {
+    float: left;
+    width: 40%;
+    height: 100vh;
+}
+
+.pre-content {
+    float: right;
+    width: calc(60% - 130px);
+    border: 1px solid gray;
+    margin: 0;
+}
+
+.actions {
+	width: 100px;
+  float: left;
+}
+
+.actions button {
+	margin: 0 8px 8px 8px;
+}
